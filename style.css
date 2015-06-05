@@ -1,9 +1,9 @@
 .square {
-    height:20px;
-    width:20px;
+    height:5px;
+    width:5px;
     border:1px solid gray;
     display:inline-block;
-    margin-right:4px;
+    margin-right:2px;
 }
 #red, #orange, #yellow, #green, #blue, #purple, #black {
     height:20px;
