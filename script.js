@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    for (var i = 0; i < 2000; i++) {
+    for (var i = 0; i < 2025; i++) {
         $('.content').append('<div class="square"></div>');
     }
     var color = "black";
